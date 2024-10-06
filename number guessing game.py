@@ -1,7 +1,7 @@
 # Md Mushfiqur Rahman
 # mmrahman@umc.edu
 
-import random # module that contains
+import random # module that contains the function of selecting a random integer
 
 print("Hi! Welcome to the guessing game. I am going to pick a number between 1 and 100.\nYou can choose to leave anytime you want")
 print("Picking a number...")
